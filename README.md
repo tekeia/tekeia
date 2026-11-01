@@ -1,31 +1,54 @@
-<h1 align="center">Hi, I'm Leo 👋</h1>
-<p align="center">Identity & Access Management Engineer — moving toward Identity Security Engineering (IAM + Cloud).</p>
+ProfileMe.dev
 
----
+    Introduction
+    Skills
+    Socials
+    Badges
+    Support
+    Go home
 
-### 🔐 What I do
+© 2026 Dan Cranney
+Follow me
+|
+Buy Me a Coffee
+Support
 
-I work in IAM at a bank: I own our Okta and PAM (Delinea) solutions, automate privileged/service/bot accounts, and handle certificate lifecycle and federation. Off the clock I run a homelab where I build the auth protocols from the ground up — SAML, OIDC, OAuth 2.0 — in my own Keycloak, and write up what breaks and why.
+Make it easy for people using your products to support you or give donations.
+Previous
+buymeacoffeeBuy Me a Coffee:
+kofiKo-fi:
+Previous
+Reorder Sections
+Preview
+Markdown
+Copy
 
-### 🧰 IAM & Security stack
+Hi 👋 My name is Leonardo Borges
+================================
 
-**Identity:** SailPoint IdentityNow/IIQ · Okta · Microsoft Entra ID · Active Directory · Keycloak
-**Privileged Access:** Delinea Secret Server
-**Security:** Wazuh (SIEM/XDR) · PKI & certificate management
-**Protocols:** SAML 2.0 · OpenID Connect · OAuth 2.0 · Kerberos · FIDO2/WebAuthn
+Identity Security Engineer
+--------------------------
 
-### 🛠️ Tools & languages
+I’m an Identity & Access Management engineer based in South Florida, focused on the systems and protocols that decide who can access what.
 
-![Skills](https://skillicons.dev/icons?i=py,flask,bash,cpp,arduino,aws,azure,linux,docker,git,github,astro,html,css,js,vscode,postman&perline=9)
+I started as a cybersecurity intern at BankUnited in 2023 and moved into a full IAM Administrator role in 2024, the year after finishing my B.S. in Cybersecurity. At the bank I own our Okta and privileged access (Delinea Secret Server) platforms, automate the lifecycle of privileged, service, and bot accounts, run access governance through SailPoint, and handle the federation and certificate work behind it — including renewing the DigiCert certificate for our Okta custom domain.
 
-### 🧪 Homelab & writing
+What sets me apart is that I don’t stop at the admin console. In my homelab I rebuild the protocols from the ground up — SAML, OIDC, OAuth 2.0 in my own Keycloak — to understand what actually travels on the wire, and I document the labs publicly. My path is toward Identity Security Engineering, where identity, cloud, and security meet. I hold CEH, Security+, CIAM, and CC, and I come from a financial-services background where getting access right isn’t optional.
 
-I document my hands-on labs on my blog as series: **Federation Lab** (SSO protocols), **IAM Lab** (identity governance with midPoint), **Cloud Lab**, and **Security Lab**. Latest: an ESP32 that logs in with the OAuth 2.0 Device Authorization Grant and reads a token-validating API for live Proxmox stats.
+*   🌍  I'm based in Miami.
+*   🖥️  See my portfolio at [my website.](http://leoborges.com)
+*   ✉️  You can contact me at [leolbrgs@gmail.com](mailto:leolbrgs@gmail.com)
+*   🚀  I'm currently working on [ESP32 projects using Keycloak.](http://http://leoborges.com/blog/federation-lab-03-esp32-device-flow/)
+*   🧠  I'm currently learning TLS and PKI.
+*   👥  I'm looking to collaborate on Open Source.
+*   💬  Ask me about I'm passionate about water; scubadiving, wakeboarding and the beach.
+<p align="left">
+<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" alt="C++" title="C++" width="36" height="36" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" alt="Git" title="Git" width="36" height="36" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" alt="Python" title="Python" width="36" height="36" /></a><a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/gnubash-colored.svg" alt="GNU Bash" title="GNU Bash" width="36" height="36" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" alt="VS Code" title="VS Code" width="36" height="36" /></a><a href="https://www.sublimetext.com/index2" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sublimetext-colored.svg" alt="Sublime Text" title="Sublime Text" width="36" height="36" /></a><a href="https://portal.azure.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/azure-colored.svg" alt="Microsoft Azure" title="Microsoft Azure" width="36" height="36" /></a><a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored-dark.svg" alt="Amazon Web Services" title="Amazon Web Services" width="36" height="36" /></a>
+                  </p>
+                  
 
-- 🌐 Blog: [leoborges.com](https://leoborges.com)
-- 💼 LinkedIn: [leolbrgs](https://www.linkedin.com/in/leolbrgs)
-- 🔧 Featured build: [esp32-proxmox-oauth](https://github.com/tekeia/esp32-proxmox-oauth)
+                ### Socials
+                
+                <p align="left"> <a href="https://www.github.com/tekeia" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a> <a href="https://www.linkedin.com/in/leolbrgs" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" /> </picture> </a></p>
 
----
-
-<p align="center"><i>Building identity security one lab at a time.</i></p>
+ProfileMe.dev | Create an amazing GitHub profile in minutes
