@@ -7,14 +7,15 @@ Identity Security Engineer
 
 I’m an Identity & Access Management engineer based in South Florida, focused on the systems and protocols that decide who can access what.
 
-I started as a cybersecurity intern at BankUnited in 2023 and moved into a full IAM Administrator role in 2024, the year after finishing my B.S. in Cybersecurity. At the bank I own our Okta and privileged access (Delinea Secret Server) platforms, automate the lifecycle of privileged, service, and bot accounts, run access governance through SailPoint, and handle the federation and certificate work behind it — including renewing the DigiCert certificate for our Okta custom domain.
+I started as a cybersecurity intern at a U.S. bank in 2023 and moved into a full IAM Administrator role in 2024, the year after finishing my B.S. in Cybersecurity. Today I own enterprise SSO and privileged access management in a regulated financial environment — automating the lifecycle of privileged, service, and bot accounts, running access governance and certification campaigns, and handling the federation and PKI work behind it, from SAML/OIDC integrations to certificate lifecycle for identity endpoints.
 
 What sets me apart is that I don’t stop at the admin console. In my homelab I rebuild the protocols from the ground up — SAML, OIDC, OAuth 2.0 in my own Keycloak — to understand what actually travels on the wire, and I document the labs publicly. My path is toward Identity Security Engineering, where identity, cloud, and security meet. I hold CEH, Security+, CIAM, and CC, and I come from a financial-services background where getting access right isn’t optional.
 
 *   🌍  I'm based in Miami.
 *   🖥️  See my portfolio at [my website.](http://leoborges.com)
 *   ✉️  You can contact me at [leolbrgs@gmail.com](mailto:leolbrgs@gmail.com)
-*   🚀  I'm currently working on [ESP32 projects using Keycloak.](http://http://leoborges.com/blog/federation-lab-03-esp32-device-flow/)
+*   🔐  Identity stack I work with: Okta, SailPoint IdentityNow/IIQ, Delinea Secret Server, Entra ID, Active Directory and Keycloak.
+*   🚀  I'm currently working on [ESP32 projects using Keycloak.](https://leoborges.com/blog/federation-lab-03-esp32-device-flow/)
 *   🧠  I'm currently learning TLS and PKI.
 *   👥  I'm looking to collaborate on Open Source.
 *   💬  Ask me about I'm passionate about water; scubadiving, wakeboarding and the beach.
